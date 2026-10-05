@@ -4,6 +4,7 @@
 - [Урок 2 — ООП и управление ресурсами](lesson02/README.md)
 - [Урок 3 — возможности C++17](lesson03/README.md)
 - [Урок 4 — CMake, структура проекта и JSON](lesson04/README.md)
+- [Урок 5 — локальная LLM: llama.cpp, Hugging Face и HTTP](lesson05/README.md)
 
 Материалы следующих занятий будут добавляться по ходу курса.
 

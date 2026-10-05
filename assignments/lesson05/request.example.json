@@ -1,0 +1,16 @@
+{
+  "model": "local-model",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Ты учебный помощник. Отвечай по-русски, кратко и понятно."
+    },
+    {
+      "role": "user",
+      "content": "Объясни в двух предложениях, зачем в C++ нужен деструктор."
+    }
+  ],
+  "temperature": 0.3,
+  "max_tokens": 64,
+  "stream": false
+}
